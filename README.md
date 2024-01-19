@@ -20,7 +20,7 @@ Also, you will need to install Expo CLI:
 ```bash
 npm install -g expo-cli
 ```
-1: **Start project**
+**Start project**
 ```bash
 expo start
 ```
