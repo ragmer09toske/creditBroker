@@ -1,6 +1,7 @@
 # React Native Expo App
 
-This is a [React Native](https://reactnative.dev/) application built using the [Expo](https://expo.dev/) framework. This app demonstrates [describe the core functionality of your app].
+This is a [React Native](https://reactnative.dev/) application built using the [Expo](https://expo.dev/) framework. This app demonstrates a credit provider app that unifies credit providers onto one platform.
+
 
 ## Features
 
